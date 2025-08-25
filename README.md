@@ -19,5 +19,3 @@ A dynamic budgeting tool built in Excel to track income, expenses, and savings a
 - Data Modeling
 - Financial Forecasting
 - User-Centric Design
-
-[Download Excel File](Budget%20-%20Tobi.xlsx)
